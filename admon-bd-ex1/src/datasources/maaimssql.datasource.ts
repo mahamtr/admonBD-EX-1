@@ -5,11 +5,11 @@ const config = {
   name: 'maaimssql',
   connector: 'mssql',
   url: '',
-  host: '127.0.0.1',
+  host: 'AMZIExamen1.mssql.somee.com',
   port: 1433,
-  user: 'maai',
-  password: 'maai123',
-  database: 'AMZI_Examen_1'
+  user: 'mahamtr_SQLLogin_1',
+  password: '1stw1bs4jb',
+  database: 'AMZIExamen1'
 };
 
 // Observe application's life cycle to disconnect the datasource when
